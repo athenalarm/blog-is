@@ -1,31 +1,31 @@
 ---
-title: "Kontakti"
+title: "Kontakt"
 date: 2025-10-20T21:00:00+08:00
 draft: false
 ---
 
-Mēs esam šeit, lai palīdzētu jums atrast labākos signalizācijas produktus un drošības risinājumus jūsu uzņēmumam. Neatkarīgi no tā, vai jums nepieciešama tehniskā atbalsta informācija, izplatīšanas detaļas vai partnerības informācija, mūsu pieredzējušā komanda ir gatava palīdzēt.
+Meie eesmärk on aidata teil leida parimaid sissemurdmisalarmi tooteid ja turvalahendusi teie ettevõttele. Olenemata sellest, kas vajate tehnilist tuge, jaotusteenuste teavet või partnerlussuhteid, on meie kogenud meeskond valmis teid aitama.
 
-## 📍 Sazinieties ar Athenalarm
+## 📍 Võtke ühendust Athenalarmiga
 
-**Adrese:**  
+**Aadress:**  
 D910, Silver Star Scientific and Technical Building,  
 Guanlan, Longhua, Shenzhen, Guangdong, China  
 
-**E-pasts:**  
+**E-post:**  
 [info@athenalarm.com](mailto:info@athenalarm.com)
 
-**Mobilais / WhatsApp / Viber:**  
+**Mobiil / WhatsApp / Viber:**  
 [+86 136 6229 9642](https://api.whatsapp.com/send?phone=8613662299642)
 
-**Tīmekļa vietne:**  
+**Veebileht:**  
 [https://athenalarm.com](https://athenalarm.com)
 
 ---
 
-## 🌐 Sazinieties ar mums tiešsaistē
+## 🌐 Ühendage meiega
 
-Sekojiet līdzi mūsu jaunākajiem drošības inovācijām, gadījumu izpētei un produktu jaunumiem:
+Hoidke end kursis meie uusimate turvauuenduste, juhtumiuuringute ja tootetutvustustega:
 
 - [LinkedIn](https://www.linkedin.com/company/athenalarm)
 - [Facebook](https://www.facebook.com/athenalarm)
@@ -36,4 +36,4 @@ Sekojiet līdzi mūsu jaunākajiem drošības inovācijām, gadījumu izpētei u
 
 ---
 
-> _Athenalarm — Profesionāls signalizācijas ražotājs un tīkla signalizācijas uzraudzības risinājumi._
+> _Athenalarm — Professionaalne sissemurdmisalarmide tootja & võrgupõhiste alarmseire lahenduste pakkuja._

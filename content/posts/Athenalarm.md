@@ -1,5 +1,5 @@
 ---
-title: "Athenalarm – Profesionāls Iebrukuma Signalizācijas Ražotājs & Tīkla Signalizācijas Uzraudzības Risini"
+title: "Athenalarm – Professionaalne Sissetungimiskaitse Tootja & Võrgu Häireseire Lahendused"
 date: 2025-10-20T21:00:00+08:00
 draft: false
 type: "posts"
@@ -7,67 +7,67 @@ type: "posts"
 
 ![Athenalarm Logo](https://athenalarm.com/wp-content/uploads/2025/05/athenalarm_home.png)
 
-## Pārskats
+## Ülevaade
 
-Dibināts 2006. gadā, Athenalarm ir profesionāls ielaušanās signalizācijas ražotājs, kas specializējas ielaušanās signalizācijas un tīkla signalizācijas uzraudzības sistēmās. Mūsu produkti nodrošina uzticamus, praktiskus drošības risinājumus uzņēmumiem, iestādēm un dzīvojamo kopienu vajadzībām. Mēs koncentrējamies uz rūpnieciskās klases ielaušanās signalizācijas sistēmām, kas apvieno ielaušanās signalizācijas ar CCTV reāllaika pārbaudei, atbalstot attālinātu diagnostiku un centralizētu pārvaldību. Šīs sistēmas ir piemērotas dažādām nozarēm, tostarp bankām, izglītībai, mazumtirdzniecībai, veselības aprūpei un dzīvojamām kopienām, un klientu uzticētas visā pasaulē.
+Asutatud 2006. aastal, Athenalarm on professionaalne sissetungimiskaitse tootja, kes on spetsialiseerunud sissetungi häire- ja võrgu häireseire süsteemidele. Meie tooted pakuvad usaldusväärseid ja praktilisi turvalahendusi ettevõtetele, asutustele ja elamukommuunidele. Me keskendume tööstusklassi sissetungimiskaitsesüsteemidele, mis ühendavad sissetungi häired CCTV-ga reaalajas kontrollimiseks, toetades kaugdiagnostikat ja tsentraliseeritud haldust. Need süsteemid sobivad erinevatesse sektoritesse, sealhulgas pangandus, haridus, jaemüük, tervishoid ja elamukommuunid ning neid usaldavad kliendid üle kogu maailma.
 
-Mūsu plašais produktu klāsts aptver signalizācijas paneļus, signalizācijas programmatūru, kustības sensorus, signalizācijas detektorus, signalizācijas komponentus, viedās mājas sistēmas un balss atgādinājumu ierīces. Šie ielaušanās signalizācijas produkti nodrošina visaptverošu drošības pārklājumu dažādiem pielietojumiem, sākot no banku seifiem līdz kopienu robežām un uzņēmumu objektiem.
+Meie ulatuslik tootevalik hõlmab häirepaneele, häiretarkvara, liikumisandureid, häireandureid, häirekomponente, nutikodu süsteeme ja häälmeeldetuletusseadmeid. Need sissetungimiskaitse tooted tagavad põhjaliku turvalisuse erinevates rakendustes, alates pangakassadest kuni kogukonna piirideni ja ettevõtete rajatiseni.
 
-Papildus mēs piedāvājam OEM un pielāgotas zīmolu izstrādes pakalpojumus, ļaujot partneriem ieviest privātā zīmola ielaušanās signalizācijas sistēmas ar aparatūras pielāgošanu, daudzvalodu rokasgrāmatām un iepakojuma atbalstu. Neatkarīgi no tā, vai esat izplatītājs, integrators vai gala lietotājs, Athenalarm piedāvājumi ļauj vienkārši ieviest profesionālus drošības risinājumus visā pasaulē.
+Lisaks pakume OEM- ja kohandatud brändingu teenuseid, võimaldades partneritel turule tuua erabrändi sissetungimiskaitsesüsteeme koos riistvara kohandamise, mitmekeelse juhendi ja pakendi toe abil. Olgu tegu distributori, integreerija või lõppkasutajaga, Athenalarm’i pakkumised võimaldavad professionaalsete turvalahenduste sujuvat paigaldamist üle kogu maailma.
 
 ![Athenalarm Factory](https://athenalarm.com/wp-content/uploads/2022/05/Athenalarm-factory-03-540.jpg)
 
-## Produkti
+## Tooted
 
 ![Industrial AS-9000 series alarm panels installed in a commercial complex](https://athenalarm.com/wp-content/uploads/2022/05/Athenalarm-burglar-alarms-1024.jpg)
 
-| Produktu Līnija | Galvenās Priekšrocības | Piemērots |
-|-----------------|---------------------|-----------|
-| AS-9000 Series Signalizācijas Paneļi | Daudzkanālu komunikācija (PSTN, 4G, TCP/IP), paplašināmas zonas (16 vadu, 30 bezvadu, līdz 1,656 ar moduļiem), LCD tastatūra ar balss norādēm, sabotāžas detektēšana, automātiska notikumu reģistrēšana | Bankas, rūpniecības parki, skolas, komerciāli kompleksi, dzīvojamās kopienas |
-| Tīkla Signalizācijas Uzraudzības Risinājumi | Centralizēta pārvaldība, integrē ielaušanās signalizāciju ar CCTV un mākoņa platformām, reāllaika signalizācijas uznirstošās logi, video ieraksti, daudzlīmeņu pāradresācija, attālināta diagnostika | Banku filiāles, bankomāti, seifi, viesnīcas, veikali, uzņēmumi, robežas, dzīvojamās kopienas |
-| AA-100 Series Balss Atgādinājumi | Pielāgojami balss brīdinājumi (MP3), divvirzienu atskaņošana, klusuma signalizācijas režīms, vadu/bezvadu integrācija, divi apgaismojuma režīmi | Mazumtirdzniecības telpas, slimnīcas, biroji, viesnīcas, bankas, noliktavas, dzīvojamo vietu objekti |
-| Signalizācijas Detektori | PIR kustības sensori (AT-805, AT-806), fotoelektriskais dūmu detektors (AS-603PC), gāzes detektors (AS-705), digitālais vibrācijas detektors (AS-971), durvju kontakts (AA-56), panikas pogas (AA-28B, AA-07) | Mājas, biroji, bankas, viesnīcas, slimnīcas, noliktavas, mazumtirdzniecības telpas |
-| Viedās Mājas Sistēmas | GSM/WIFI signalizācijas sistēma (AS-6000), integrējas ar citiem sensoriem un paneļiem automatizētām brīdinājumiem un attālinātai uzraudzībai | Dzīvojamās kopienas, biroji, mazie uzņēmumi |
+| Tootevalik | Peamised Eelised | Sobib |
+|------------|-----------------|-------|
+| AS-9000 Seeria Häirepaneelid | Mitmekanaliline kommunikatsioon (PSTN, 4G, TCP/IP), laiendatavad tsoonid (16 juhtmega, 30 juhtmevaba, kuni 1,656 moodulite kaudu), LCD-klahvistik häälmeeldetuletustega, sabotaaži tuvastus, automaatne sündmuste logimine | Pangad, tööstuspargid, koolid, kaubanduskompleksid, elamukommuunid |
+| Võrgu Häireseire Lahendused | Tsentraliseeritud haldus, integreerib sissetungi häired CCTV & pilveplatvormidega, reaalajas häire hüpikaknad, videosalvestus, mitmetasandiline edastamine, kaugdiagnostika | Panga harukontorid, ATM-id, vaultid, hotellid, poed, ettevõtted, piirid, elamukommuunid |
+| AA-100 Seeria Häälmeeldetuletused | Kohandatavad häälteavitused (MP3), kahepoolne esitamine, vaikne häire režiim, juhtmega/traadita integratsioon, kaks valgusrežiimi | Jaemüügipinnad, haiglad, kontorid, hotellid, pangad, laod, elamukohad |
+| Häireandurid | PIR liikumisandurid (AT-805, AT-806), fotoelektriline suitsuandur (AS-603PC), gaasiandur (AS-705), digitaalne vibratsiooniandur (AS-971), uksekontakt (AA-56), paanikanuppud (AA-28B, AA-07) | Kodud, kontorid, pangad, hotellid, haiglad, laod, jaemüügipinnad |
+| Nutikodu Süsteemid | GSM/WIFI häiresüsteem (AS-6000), integreerub teiste andurite ja paneelidega automaatsete teavituste ja kaugmonitooringu jaoks | Elamukommuunid, kontorid, väikesed ettevõtted |
 
-[Skatīt Video 1](https://www.youtube.com/watch?v=fxNFCblKrTA)  
-[Skatīt Video 2](https://www.youtube.com/watch?v=FouMQpGDZNk)
+[Vaata Video 1](https://www.youtube.com/watch?v=fxNFCblKrTA)  
+[Vaata Video 2](https://www.youtube.com/watch?v=FouMQpGDZNk)
 
-## OEM un Pielāgotas Zīmolu Izstrādes Pakalpojumi
+## OEM & Kohandatud Brändingu Teenused
 
-Mēs piedāvājam privātā zīmola un pielāgotus risinājumus izplatītājiem un integratoriem: aparatūras pielāgošana, daudzvalodu rokasgrāmatas, iepakojums un zīmola atbalsts. Ļauj partneriem ātri un profesionāli ieviest zīmolu ielaušanās signalizācijas produktus.
+Pakume erabrändi ja kohandatud lahendusi distributooridele ja integreerijatele: riistvara kohandamine, mitmekeelsed juhendid, pakendamine ja brändingu tugi. Võimaldab partneritel kiiresti ja professionaalselt turule tuua bränditud sissetungimiskaitse tooted.
 
-Piemērots: Izplatītājiem un integratoriem, kas ievieš zīmola drošības produktus
+Sobib: Distributooridele ja integreerijatele, kes turule toovad bränditud turvatooteid
 
-[Skatīt OEM Piemēru](https://www.instagram.com/p/CTj0hpEjxJ0/)
+[Vaata OEM Näidet](https://www.instagram.com/p/CTj0hpEjxJ0/)
 
-## Kāpēc Athenalarm Izceļas
+## Miks Athenalarm eristub
 
-- Pārbaudīta Ekspertīze: Kopš 2006. gada, nodrošinot mērogojamas ielaušanās un signalizācijas risinājumus, kam uzticas klienti visā pasaulē.  
-- Daudzveidīgas Pielietojuma Iespējas: Piemērots bankām, viesnīcām, veikaliem, kopienām, birojiem un citiem—apvienojot signalizācijas, CCTV un mākoņu tehnoloģiju centralizētai kontrolei.  
-- Izmaksu Efektīva Inovācija: Viegli uzstādāmas sistēmas ar daudzkanālu komunikāciju (PSTN, 4G, TCP/IP) un paplašināmām funkcijām par konkurētspējīgām cenām.  
-- Klientu Apmierinātība: Uzticami drošības produkti un sistēmas, kam uzticas klienti visā pasaulē.
+- Tõestatud Asjatundlikkus: Alates 2006. aastast pakume skaleeritavaid sissetungi- ja häiresüsteemide lahendusi, mida usaldavad kliendid üle kogu maailma.  
+- Mitmekülgsed Rakendused: Sobib pankadele, hotellidele, poodidele, kogukondadele, kontoritele jpm—ühendades häired, CCTV ja pilvetehnoloogia tsentraliseeritud juhtimiseks.  
+- Kuluefektiivne Innovatsioon: Lihtsalt paigaldatavad süsteemid mitmekanalilise kommunikatsiooniga (PSTN, 4G, TCP/IP) ja laiendatavate funktsioonidega konkurentsivõimeliste hindadega.  
+- Kliendirahulolu: Kliendid üle kogu maailma usaldavad meie turvatoodete ja -süsteemide usaldusväärsust.
 
-[Skatīt Klientu Uzstādīšanas Gadījumu Pētījumus](https://www.instagram.com/p/DJ0VWautwqA/?img_index=2)
+[Vaata Kliendi Paigaldusjuhtumeid](https://www.instagram.com/p/DJ0VWautwqA/?img_index=2)
 
-## Klientu Atsauksmes
+## Kliendi Tagasiside
 
-- “Ielaušanās signalizācija ir lieliska, es uzstādīju vienu komplektu un tas darbojas lieliski.” – Rabeah Arnous, CEO  
-- “Fantastiska sistēma…Uzstādīju un mans klients bija ļoti apmierināts. 5 zvaigžņu vērtējums.” – Bassey Tom, CEO  
-- “Tīkla signalizācijas uzraudzības sistēma ir tik laba, viegli lietojama, viegli uzstādāma un nodrošina reāllaika pārraidi. Gaidām nākamo pasūtījumu.” – Ben Takan, Drošības Koordinators
+- “Sissetungi alarm töötab hästi, paigaldasin ühe komplekti ja see toimib suurepäraselt.” – Rabeah Arnous, tegevjuht  
+- “Väga hea süsteem… Paigaldasin selle ja minu klient oli väga rahul. 5-tärni hinnang.” – Bassey Tom, tegevjuht  
+- “Võrgu häireseire süsteem on nii hea, lihtne kasutada, lihtne paigaldada ja ületab reaalaja edastuse. Ootame järgmist tellimust.” – Ben Takan, turvakoordinaator
 
-## Sāciet Darboties
+## Alusta
 
-Neatkarīgi no tā, vai esat drošības integrators, izplatītājs vai gala lietotājs, Athenalarm piedāvā augstas kvalitātes ielaušanās signalizācijas produktus un ielaušanās signalizācijas sistēmas, kas pielāgotas jūsu vajadzībām.
+Olgu tegu turvaintegratsiooni, distributsiooni või lõppkasutajaga, Athenalarm pakub kvaliteetseid sissetungimiskaitse tooteid ja häiresüsteeme, mis on kohandatud teie vajadustele.
 
-[Apmeklējiet Athenalarm.com Tagad – Saņemiet Bezmaksas Piedāvājumu Šodien!](https://athenalarm.com/)
+[Külasta Athenalarm.com nüüd – Saa tasuta pakkumine juba täna!](https://athenalarm.com/)
 
-## Sazinieties Ar Mums Tieši
+## Võta Meiega Otse Ühendust
 
-- Mājas lapa: [https://athenalarm.com/](https://athenalarm.com/)  
-- E-pasts: [info@athenalarm.com](mailto:info@athenalarm.com)  
-- Mobilais/WhatsApp/Viber: [+86 13662299642](https://api.whatsapp.com/send?phone=8613662299642)
+- Veebileht: [https://athenalarm.com/](https://athenalarm.com/)  
+- E-post: [info@athenalarm.com](mailto:info@athenalarm.com)  
+- Mobiil/WhatsApp/Viber: [+86 13662299642](https://api.whatsapp.com/send?phone=8613662299642)
 
-## Seko Mums
+## Jälgi meid
 
 - [YouTube](https://www.youtube.com/channel/UCP0_Wg3aylBn69eBIH2Fazg)  
 - [LinkedIn](https://www.linkedin.com/company/athenalarm/)  
