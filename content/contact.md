@@ -1,31 +1,31 @@
 ---
-title: "Kontakt"
+title: "Hafðu samband"
 date: 2025-10-20T21:00:00+08:00
 draft: false
 ---
 
-Meie eesmärk on aidata teil leida parimaid sissemurdmisalarmi tooteid ja turvalahendusi teie ettevõttele. Olenemata sellest, kas vajate tehnilist tuge, jaotusteenuste teavet või partnerlussuhteid, on meie kogenud meeskond valmis teid aitama.
+Við erum hér til að hjálpa þér að finna bestu innbrotaljósavörur og öryggislausnir fyrir fyrirtæki þitt. Hvort sem þú þarft tæknilegan stuðning, upplýsingar um dreifingu eða samstarfsmöguleika, er reynslumikill hópur okkar tilbúinn til að aðstoða þig.
 
-## 📍 Võtke ühendust Athenalarmiga
+## 📍 Hafðu samband við Athenalarm
 
-**Aadress:**  
+**Heimilisfang:**  
 D910, Silver Star Scientific and Technical Building,  
 Guanlan, Longhua, Shenzhen, Guangdong, China  
 
-**E-post:**  
+**Netfang:**  
 [info@athenalarm.com](mailto:info@athenalarm.com)
 
-**Mobiil / WhatsApp / Viber:**  
+**Sími / WhatsApp / Viber:**  
 [+86 136 6229 9642](https://api.whatsapp.com/send?phone=8613662299642)
 
-**Veebileht:**  
+**Vefsvæði:**  
 [https://athenalarm.com](https://athenalarm.com)
 
 ---
 
-## 🌐 Ühendage meiega
+## 🌐 Tengstu við okkur
 
-Hoidke end kursis meie uusimate turvauuenduste, juhtumiuuringute ja tootetutvustustega:
+Fylgstu með nýjustu öryggisframfarir okkar, viðskiptarannsóknum og vörulausnum:
 
 - [LinkedIn](https://www.linkedin.com/company/athenalarm)
 - [Facebook](https://www.facebook.com/athenalarm)
@@ -36,4 +36,4 @@ Hoidke end kursis meie uusimate turvauuenduste, juhtumiuuringute ja tootetutvust
 
 ---
 
-> _Athenalarm — Professionaalne sissemurdmisalarmide tootja & võrgupõhiste alarmseire lahenduste pakkuja._
+> _Athenalarm — Faglegur framleiðandi innbrotaljósa & netbundinna öryggiseftirlitslausna._

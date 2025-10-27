@@ -1,5 +1,5 @@
 ---
-title: "Athenalarm – Professionaalne Sissetungimiskaitse Tootja & Võrgu Häireseire Lahendused"
+title: "Athenalarm – Faglegur Framleiðandi Innbrotsalarma & Lausnir fyrir Netvöktun Larma"
 date: 2025-10-20T21:00:00+08:00
 draft: false
 type: "posts"
@@ -7,67 +7,67 @@ type: "posts"
 
 ![Athenalarm Logo](https://athenalarm.com/wp-content/uploads/2025/05/athenalarm_home.png)
 
-## Ülevaade
+## Yfirlit
 
-Asutatud 2006. aastal, Athenalarm on professionaalne sissetungimiskaitse tootja, kes on spetsialiseerunud sissetungi häire- ja võrgu häireseire süsteemidele. Meie tooted pakuvad usaldusväärseid ja praktilisi turvalahendusi ettevõtetele, asutustele ja elamukommuunidele. Me keskendume tööstusklassi sissetungimiskaitsesüsteemidele, mis ühendavad sissetungi häired CCTV-ga reaalajas kontrollimiseks, toetades kaugdiagnostikat ja tsentraliseeritud haldust. Need süsteemid sobivad erinevatesse sektoritesse, sealhulgas pangandus, haridus, jaemüük, tervishoid ja elamukommuunid ning neid usaldavad kliendid üle kogu maailma.
+Stofnað árið 2006, Athenalarm er faglegur framleiðandi innbrotsalarma sem sérhæfir sig í innbrotsöryggis- og netvöktunarkerfum. Vörur okkar veita áreiðanlegar og hagnýtar öryggislausnir fyrir fyrirtæki, stofnanir og íbúðasamfélög. Við einbeitum okkur að iðnaðarstigi innbrotsalarma sem sameina innbrotsalarm með CCTV til rauntímastaðfestingar, styðja fjarskiptagreiningu og miðlæga stjórnun. Þessi kerfi henta fyrir fjölbreytt svið, þar á meðal banka, menntun, smásölu, heilbrigðisþjónustu og íbúðasamfélög, og eru treyst af viðskiptavinum um allan heim.
 
-Meie ulatuslik tootevalik hõlmab häirepaneele, häiretarkvara, liikumisandureid, häireandureid, häirekomponente, nutikodu süsteeme ja häälmeeldetuletusseadmeid. Need sissetungimiskaitse tooted tagavad põhjaliku turvalisuse erinevates rakendustes, alates pangakassadest kuni kogukonna piirideni ja ettevõtete rajatiseni.
+Víðtækt vöruúrval okkar nær yfir alarmstöðvar, alarmhugbúnað, hreyfiskynjara, alarmnemar, alarmhluta, snjallheimakerfi og raddminnitala. Þessar vörur fyrir innbrotsalarma veita fullkomna öryggisvörn fyrir ýmsa notkun, allt frá bankahólfum til umhverfis samfélaga og fyrirtækjaframkvæmda.
 
-Lisaks pakume OEM- ja kohandatud brändingu teenuseid, võimaldades partneritel turule tuua erabrändi sissetungimiskaitsesüsteeme koos riistvara kohandamise, mitmekeelse juhendi ja pakendi toe abil. Olgu tegu distributori, integreerija või lõppkasutajaga, Athenalarm’i pakkumised võimaldavad professionaalsete turvalahenduste sujuvat paigaldamist üle kogu maailma.
+Auk þess bjóðum við upp á OEM og sérsniðnar merkjþjónustur, sem gera samstarfsaðilum kleift að koma á markað með einkamerkt innbrotsalarmkerfi með sérsniðnum vélbúnaði, fjöltyngdum handbókum og stuðningi við pökkun. Hvort sem þú ert dreifingaraðili, samþættingaraðili eða endanotandi, gerir Athenalarm kleift að koma á framfæri faglegum öryggislausnum um allan heim.
 
 ![Athenalarm Factory](https://athenalarm.com/wp-content/uploads/2022/05/Athenalarm-factory-03-540.jpg)
 
-## Tooted
+## Vörur
 
 ![Industrial AS-9000 series alarm panels installed in a commercial complex](https://athenalarm.com/wp-content/uploads/2022/05/Athenalarm-burglar-alarms-1024.jpg)
 
-| Tootevalik | Peamised Eelised | Sobib |
-|------------|-----------------|-------|
-| AS-9000 Seeria Häirepaneelid | Mitmekanaliline kommunikatsioon (PSTN, 4G, TCP/IP), laiendatavad tsoonid (16 juhtmega, 30 juhtmevaba, kuni 1,656 moodulite kaudu), LCD-klahvistik häälmeeldetuletustega, sabotaaži tuvastus, automaatne sündmuste logimine | Pangad, tööstuspargid, koolid, kaubanduskompleksid, elamukommuunid |
-| Võrgu Häireseire Lahendused | Tsentraliseeritud haldus, integreerib sissetungi häired CCTV & pilveplatvormidega, reaalajas häire hüpikaknad, videosalvestus, mitmetasandiline edastamine, kaugdiagnostika | Panga harukontorid, ATM-id, vaultid, hotellid, poed, ettevõtted, piirid, elamukommuunid |
-| AA-100 Seeria Häälmeeldetuletused | Kohandatavad häälteavitused (MP3), kahepoolne esitamine, vaikne häire režiim, juhtmega/traadita integratsioon, kaks valgusrežiimi | Jaemüügipinnad, haiglad, kontorid, hotellid, pangad, laod, elamukohad |
-| Häireandurid | PIR liikumisandurid (AT-805, AT-806), fotoelektriline suitsuandur (AS-603PC), gaasiandur (AS-705), digitaalne vibratsiooniandur (AS-971), uksekontakt (AA-56), paanikanuppud (AA-28B, AA-07) | Kodud, kontorid, pangad, hotellid, haiglad, laod, jaemüügipinnad |
-| Nutikodu Süsteemid | GSM/WIFI häiresüsteem (AS-6000), integreerub teiste andurite ja paneelidega automaatsete teavituste ja kaugmonitooringu jaoks | Elamukommuunid, kontorid, väikesed ettevõtted |
+| Vöruúrval | Helstu Kostir | Hentar Fyrir |
+|-----------|----------------|---------------|
+| AS-9000 Röð Innbrotsalarmsstöðva | Fjölrásasamskipti (PSTN, 4G, TCP/IP), viðbætanleg svæði (16 með snúru, 30 þráðlaus, allt að 1,656 með módelum), LCD lyklaborð með raddleiðbeiningum, læti við tilraunir, sjálfvirk skráning atburða | Bankar, iðnaðarsvæði, skólar, verslunarkjarnar, íbúðasamfélög |
+| Lausnir fyrir Netvöktun Larma | Miðlæg stjórnun, sameinar innbrotsalarma með CCTV & skýjapöllum, rauntíma viðvaranir, myndbandsupptaka, margstigs flutningur, fjarskiptagreining | Bankaútibú, hraðbankar, öryggishólf, hótel, verslanir, fyrirtæki, umhverfi, íbúðasamfélög |
+| AA-100 Röð Raddminnitala | Sérsniðnar raddviðvaranir (MP3), tveggja áttara spilun, hljóðlaust viðvörunarmód, samþætting með snúru/þráðlaust, tvö ljósamód | Smásölur, sjúkrahús, skrifstofur, hótel, bankar, vöruhús, íbúðarstaðir |
+| Alarmnemar | PIR hreyfiskynjarar (AT-805, AT-806), ljósnema reyktilkynning (AS-603PC), gasnemar (AS-705), stafrænn titringsnemar (AS-971), hurðar- og gluggaskynjarar (AA-56), neyðarhnappar (AA-28B, AA-07) | Heimili, skrifstofur, bankar, hótel, sjúkrahús, vöruhús, smásölur |
+| Snjallheimakerfi | GSM/WIFI alarmskerfi (AS-6000), samþætt með öðrum nemum og stjórnstöðvum fyrir sjálfvirkar viðvaranir og fjarstýrða eftirlit | Íbúðasamfélög, skrifstofur, lítil fyrirtæki |
 
-[Vaata Video 1](https://www.youtube.com/watch?v=fxNFCblKrTA)  
-[Vaata Video 2](https://www.youtube.com/watch?v=FouMQpGDZNk)
+[Sjá Myndband 1](https://www.youtube.com/watch?v=fxNFCblKrTA)  
+[Sjá Myndband 2](https://www.youtube.com/watch?v=FouMQpGDZNk)
 
-## OEM & Kohandatud Brändingu Teenused
+## OEM & Sérsniðnar Merkjþjónustur
 
-Pakume erabrändi ja kohandatud lahendusi distributooridele ja integreerijatele: riistvara kohandamine, mitmekeelsed juhendid, pakendamine ja brändingu tugi. Võimaldab partneritel kiiresti ja professionaalselt turule tuua bränditud sissetungimiskaitse tooted.
+Við bjóðum upp á einkamerkt og sérsniðið lausnir fyrir dreifingaraðila og samþættingaraðila: sérsniðin vélbúnaður, fjöltyngdar handbækur, pökkun og stuðning við merkjagerð. Leyfir samstarfsaðilum að koma á markað með vörumerkt innbrotsalarmkerfi fljótt og faglega.
 
-Sobib: Distributooridele ja integreerijatele, kes turule toovad bränditud turvatooteid
+Hentar Fyrir: Dreifingaraðila og samþættingaraðila sem koma á markað með vörumerkt öryggisvörur
 
-[Vaata OEM Näidet](https://www.instagram.com/p/CTj0hpEjxJ0/)
+[Sjá OEM Dæmi](https://www.instagram.com/p/CTj0hpEjxJ0/)
 
-## Miks Athenalarm eristub
+## Af hverju Athenalarm stendur út
 
-- Tõestatud Asjatundlikkus: Alates 2006. aastast pakume skaleeritavaid sissetungi- ja häiresüsteemide lahendusi, mida usaldavad kliendid üle kogu maailma.  
-- Mitmekülgsed Rakendused: Sobib pankadele, hotellidele, poodidele, kogukondadele, kontoritele jpm—ühendades häired, CCTV ja pilvetehnoloogia tsentraliseeritud juhtimiseks.  
-- Kuluefektiivne Innovatsioon: Lihtsalt paigaldatavad süsteemid mitmekanalilise kommunikatsiooniga (PSTN, 4G, TCP/IP) ja laiendatavate funktsioonidega konkurentsivõimeliste hindadega.  
-- Kliendirahulolu: Kliendid üle kogu maailma usaldavad meie turvatoodete ja -süsteemide usaldusväärsust.
+- Sannað sérfræðiþekking: Frá 2006, afhending stækkanlegra innbrotsalarma og innbrotsalarmkerfa sem viðskiptavinir um allan heim treysta.  
+- Fjölbreytt notkun: Hentar banka, hótel, verslanir, samfélög, skrifstofur og fleira—sameinar alarm, CCTV og skýjatækni fyrir miðlæga stjórn.  
+- Kostnaðarhagkvæm nýsköpun: Auðvelt að setja upp kerfi með fjölrásasamskiptum (PSTN, 4G, TCP/IP) og viðbætanlegum eiginleikum á samkeppnishæfu verði.  
+- Viðskiptavinir ánægðir: Treyst af viðskiptavinum um allan heim fyrir áreiðanleg öryggisvörur og kerfi.
 
-[Vaata Kliendi Paigaldusjuhtumeid](https://www.instagram.com/p/DJ0VWautwqA/?img_index=2)
+[Sjá Dæmi um Uppsetningu Viðskiptavina](https://www.instagram.com/p/DJ0VWautwqA/?img_index=2)
 
-## Kliendi Tagasiside
+## Vitnisburður Viðskiptavina
 
-- “Sissetungi alarm töötab hästi, paigaldasin ühe komplekti ja see toimib suurepäraselt.” – Rabeah Arnous, tegevjuht  
-- “Väga hea süsteem… Paigaldasin selle ja minu klient oli väga rahul. 5-tärni hinnang.” – Bassey Tom, tegevjuht  
-- “Võrgu häireseire süsteem on nii hea, lihtne kasutada, lihtne paigaldada ja ületab reaalaja edastuse. Ootame järgmist tellimust.” – Ben Takan, turvakoordinaator
+- “Innbrotsalarmið er frábært, ég setti eitt sett upp og það virkar mjög vel.” – Rabeah Arnous, CEO  
+- “Ótrúlegt kerfi… Hef sett það upp og viðskiptavinur minn var mjög ánægður. 5 stjörnu einkunn.” – Bassey Tom, CEO  
+- “Netvöktunarkerfi alarmanna er svo gott, auðvelt í notkun, auðvelt í uppsetningu og yfir rauntíma sendingu. Við hlökkum til næstu pantana.” – Ben Takan, Öryggisstjóri
 
-## Alusta
+## Byrjaðu Núna
 
-Olgu tegu turvaintegratsiooni, distributsiooni või lõppkasutajaga, Athenalarm pakub kvaliteetseid sissetungimiskaitse tooteid ja häiresüsteeme, mis on kohandatud teie vajadustele.
+Hvort sem þú ert öryggissamþættingaraðili, dreifingaraðili eða endanotandi, veitir Athenalarm hágæða vörur fyrir innbrotsalarma og innbrotsalarmkerfi sérsniðin að þínum þörfum.
 
-[Külasta Athenalarm.com nüüd – Saa tasuta pakkumine juba täna!](https://athenalarm.com/)
+[Fara á Athenalarm.com Núna – Fáðu Ókeypis Tilboð Í Dag!](https://athenalarm.com/)
 
-## Võta Meiega Otse Ühendust
+## Hafðu Beint Samband
 
-- Veebileht: [https://athenalarm.com/](https://athenalarm.com/)  
-- E-post: [info@athenalarm.com](mailto:info@athenalarm.com)  
-- Mobiil/WhatsApp/Viber: [+86 13662299642](https://api.whatsapp.com/send?phone=8613662299642)
+- Vefsíða: [https://athenalarm.com/](https://athenalarm.com/)  
+- Netfang: [info@athenalarm.com](mailto:info@athenalarm.com)  
+- Sími/WhatsApp/Viber: [+86 13662299642](https://api.whatsapp.com/send?phone=8613662299642)
 
-## Jälgi meid
+## Fylgstu með okkur
 
 - [YouTube](https://www.youtube.com/channel/UCP0_Wg3aylBn69eBIH2Fazg)  
 - [LinkedIn](https://www.linkedin.com/company/athenalarm/)  

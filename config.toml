@@ -1,7 +1,7 @@
 # Website Basic Information
-baseURL = "https://bloget.athenalarm.com/"    # Placeholder URL, change to Cloudflare Pages URL after deployment
-title = "Athenalarmi blogi"
-languageCode = "et"
+baseURL = "https://blogis.athenalarm.com/"    # Placeholder URL, change to Cloudflare Pages URL after deployment
+title = "Athenalarm Blogg"
+languageCode = "is"
 theme = "ananke"
 
 # Author Information (optional)
@@ -13,24 +13,24 @@ theme = "ananke"
 [menu]
   [[menu.main]]
     identifier = "home"
-    name = "Kodu"
+    name = "Heimasíða"
     url = "/"
     weight = 1
 
   [[menu.main]]
     identifier = "posts"
-    name = "Postitused"
+    name = "Greinar"
     url = "/posts/"
     weight = 2
 
   [[menu.main]]
     identifier = "contact"
-    name = "Kontakt"
+    name = "Hafðu samband"
     url = "/contact/"
     weight = 3
 
 # ---------------------------
 # Home Page Settings
 # ---------------------------
-paginate = 5          # 首页显示最新 5 篇文章
-mainSections = ["posts"]  # Home 页面只显示 type 为 "posts" 的文章
+paginate = 5          # Heim síða sýnir nýjustu 5 greinar
+mainSections = ["posts"]  # Heim síða sýnir aðeins greinar með type "posts"
