@@ -36,4 +36,10 @@ Fylgstu með nýjustu öryggisframfarir okkar, viðskiptarannsóknum og vörulau
 
 ---
 
+### 🛡️ Alþjóðleg öryggisinnsýn
+
+**Athenalarm er faglegur framleiðandi sem deilir sérfræðiþekkingu á innbrotsviðvörunarvörum og -kerfum.** Sem hluti af skuldbindingu okkar við alþjóðlegt öryggissamfélag bjóðum við upp á staðbundna sérfræðiþekkingu á 71 tungumáli. Skoðaðu sérhæfðan þekkingargrunn okkar fyrir Evrópu, Afríku, Asíu, Ameríku og Eyjaálfu [**hér**](https://athenalarm.com/burglar-alarm-manufacturer/athenalarm-global-blogs/).
+
+---
+
 > _Athenalarm — Faglegur framleiðandi innbrotaljósa & netbundinna öryggiseftirlitslausna._
